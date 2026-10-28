@@ -1,0 +1,23 @@
+# Built files
+build/
+app/build/
+
+# Gradle
+.gradle/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Local config
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keystore
+*.jks
+*.keystore
